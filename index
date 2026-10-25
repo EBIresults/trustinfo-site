@@ -1,1 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Protect Your Assets | Book a Call</title>
+  <meta name="description" content="Keep assets out of probate, reduce inheritance tax exposure, and add lawsuit protection. Book a short paid call to see if it fits.">
+  <link rel="canonical" href="https://trustinfo.ebiresults.com/">
+  <meta property="og:title" content="Protect Your Assets | Book a Call">
+  <meta property="og:description" content="Simple structure to help keep assets private, out of probate, and harder for lawsuits to reach.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://trustinfo.ebiresults.com/">
 
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ProfessionalService",
+        "name": "Asset Protection & Privacy",
+        "url": "https://trustinfo.ebiresults.com/",
+        "description": "Boutique service helping clients structure assets for privacy, probate avoidance, and lawsuit protection.",
+        "areaServed": "US"
+      },
+      {
+        "@type": "WebPage",
+        "name": "Protect Your Assets",
+        "url": "https://trustinfo.ebiresults.com/",
+        "description": "Forward-facing page to book a short call about asset protection and privacy."
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does this help with?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It helps keep assets out of probate, can reduce inheritance tax exposure, adds a layer of lawsuit protection, and improves privacy compared with a standard will."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I get started?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Book a short paid call. We review your situation and explain whether it is a fit."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the call free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. The introductory call is $100 and lasts 20 minutes."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://trustinfo.ebiresults.com/"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; color: #1a1a1a; background: #f8f9fa; }
+    .container { max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { background: #0f2c4c; color: white; padding: 20px 0; text-align: center; }
+    header h1 { font-size: 1.8rem; font-weight: 600; }
+    .hero { background: white; padding: 60px 20px; text-align: center; border-bottom: 1px solid #e0e0e0; }
+    .hero h2 { font-size: clamp(1.8rem, 4vw, 2.2rem); margin-bottom: 16px; color: #0f2c4c; }
+    .hero p { font-size: 1.15rem; max-width: 640px; margin: 0 auto 28px; color: #444; }
+    .cta { display: inline-block; background: #1a73e8; color: white; padding: 16px 32px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 1.1rem; min-height: 48px; }
+    .cta:hover { background: #1557b0; }
+    .benefits { padding: 50px 20px; }
+    .benefits h3 { text-align: center; font-size: 1.8rem; margin-bottom: 30px; color: #0f2c4c; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; }
+    .card { background: white; padding: 24px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+    .card h4 { margin-bottom: 8px; color: #0f2c4c; }
+    .how { padding: 50px 20px; background: white; text-align: center; }
+    .how h3 { font-size: 1.8rem; margin-bottom: 20px; color: #0f2c4c; }
+    .steps { max-width: 600px; margin: 0 auto 30px; text-align: left; }
+    .steps li { margin-bottom: 12px; }
+    footer { background: #0f2c4c; color: white; text-align: center; padding: 40px 20px; }
+    footer .cta { background: white; color: #0f2c4c; }
+    footer .cta:hover { background: #e8f0fe; }
+    .video-placeholder { background: #e8f0fe; padding: 40px; text-align: center; margin: 30px auto; border-radius: 8px; color: #555; max-width: 600px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Asset Protection & Privacy</h1>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Keep Your Assets Private and Protected</h2>
+      <p>A simple structure that helps keep assets out of probate, away from inheritance tax, and harder for lawsuits to reach. Book a short call to see if it fits your situation.</p>
+      <a class="cta" href="https://calendly.com/getatrust/trust-call?utm_source=trustinfo.ebiresults.com&utm_medium=website&utm_campaign=homepage&utm_content=cta-main" target="_blank" rel="noopener">Book Your $100 Call</a>
+    </div>
+  </section>
+
+  <section class="benefits">
+    <div class="container">
+      <h3>What This Helps With</h3>
+      <div class="grid">
+        <div class="card">
+          <h4>No Probate</h4>
+          <p>Assets can pass without going through probate court.</p>
+        </div>
+        <div class="card">
+          <h4>No Inheritance Tax</h4>
+          <p>Designed so assets avoid inheritance tax when structured correctly.</p>
+        </div>
+        <div class="card">
+          <h4>Lawsuit Protection</h4>
+          <p>Helps shield assets from lawsuits and turnover orders.</p>
+        </div>
+        <div class="card">
+          <h4>Privacy</h4>
+          <p>Keeps ownership details more private than a typical will or public record.</p>
+        </div>
+        <div class="card">
+          <h4>Simpler Records</h4>
+          <p>Cleaner bookkeeping compared with many other structures.</p>
+        </div>
+        <div class="card">
+          <h4>Harder to Contest</h4>
+          <p>More difficult to challenge than a standard will in many cases.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="how">
+    <div class="container">
+      <h3>How It Works</h3>
+      <ol class="steps">
+        <li>Book a short paid call.</li>
+        <li>We review your situation and explain the options.</li>
+        <li>If it is a fit, you decide the next step.</li>
+      </ol>
+      <div class="video-placeholder">Video coming soon</div>
+      <a class="cta" href="https://calendly.com/getatrust/trust-call?utm_source=trustinfo.ebiresults.com&utm_medium=website&utm_campaign=homepage&utm_content=cta-bottom" target="_blank" rel="noopener">Book Your $100 Call</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>Questions? Book a call and we will walk through it together.</p>
+      <br>
+      <a class="cta" href="https://calendly.com/getatrust/trust-call?utm_source=trustinfo.ebiresults.com&utm_medium=website&utm_campaign=homepage&utm_content=cta-footer" target="_blank" rel="noopener">Book Your $100 Call</a>
+    </div>
+  </footer>
+</body>
+</html>
